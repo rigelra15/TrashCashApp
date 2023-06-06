@@ -1,7 +1,7 @@
 # TrashCash App UI Design
 
 ## UI App Design (by Figma)
-[![button_figma](/ssss.png)]([https://youtube.com](https://www.figma.com/file/oGIrF6NC8jl9e0sVgKw3cb/TrashCash-Design-2?type=design&node-id=0%3A1&t=V9mhUGNL2ywx7giX-1))
+[![button_figma](/ssss.png)](https://www.figma.com/file/oGIrF6NC8jl9e0sVgKw3cb/TrashCash-Design-2?type=design&node-id=0%3A1&t=V9mhUGNL2ywx7giX-1)
 
 ## Penjelasan
 
