@@ -6,3 +6,13 @@
 ## Penjelasan
 
 TrashCash adalah sebuah aplikasi yang memungkinkan pengguna untuk menukar sampah menjadi uang dan kemudian ditukarkan ke berbagai pilihan seperti saldo e-wallet, transfer bank, digital voucher, dan lain sebagainya. Aplikasi ini bertujuan untuk mendorong pengguna untuk mengelola sampah dengan lebih efektif, serta memberikan insentif finansial bagi mereka yang berpartisipasi dalam program daur ulang.
+
+## Identitas
+
+Nama: Rigel Ramadhani Waloni
+
+NRP: 5024221058
+
+Jurusan: Teknik Komputer
+
+Angkatan: 2022
